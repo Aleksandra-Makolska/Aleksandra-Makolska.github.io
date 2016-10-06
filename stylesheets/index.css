@@ -1,6 +1,3 @@
-body {
-  margin-top: 30px;
-}
 .navbar-inverse .navbar-brand {
   font-family: verdana;
   font-size: 20px;
@@ -12,7 +9,7 @@ body {
     padding-bottom:: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../Images/Pic1.jpg) no-repeat center center;
+    background-color: bl
     background-size: cover;
 }
 
@@ -36,31 +33,4 @@ body {
 
 .intro-message > h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-}
-
-
-
-h1.title {
-  padding: 0 50px 50px 0;
-padding-top: 50px;
-
-}
-h2 {
-  font-size: 22px;
-}
-.rating {
-  font-size: 0.4em;
-  text-transform: uppercase;
-  border: 1px solid #ccc;
-  padding: 4px;
-  vertical-align: middle;
-}
-.summary h2, .actors h2 {
-  margin-top: 0;
-}
-.actors li {
-  line-height: 24px;
-}
-.review {
-  margin-bottom: 30px;
 }

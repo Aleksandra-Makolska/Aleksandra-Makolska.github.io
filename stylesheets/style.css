@@ -26,9 +26,7 @@ h2 {
 .summary h2, .actors h2 {
   margin-top: 0;
 }
-.actors li {
-  line-height: 24px;
-}
+
 .review {
   margin-bottom: 30px;
 }
