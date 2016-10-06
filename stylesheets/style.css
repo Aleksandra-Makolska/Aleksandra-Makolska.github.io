@@ -13,9 +13,14 @@ body {
   padding-top: 15px;
 }
 
+.container-fluid {
+  color: black
+}
+
 #landing {
           font-family: 'Tangerine';
           text-align: center;
+          color: #404040
         }
 
 #jumbo {
