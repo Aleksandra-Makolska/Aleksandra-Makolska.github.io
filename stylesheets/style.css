@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 body {
   margin-top: 30px;
 }
+
+
+
 .navbar-inverse .navbar-brand {
   font-family: verdana;
   font-size: 20px;
@@ -8,16 +13,33 @@ body {
   padding-top: 15px;
 }
 
-h1.intro {
-    font-family: "Times New Roman";
+
+
+
+#landing {
+          font-family: 'Pacifico';
+          text-align: center;
+        }
+
+#jumbo {
+        font-family: 'verdana';
+        font-weight: bold;
+        color: white;
+        text-align: center;
+}
+
+
+h1 {
+    font-family: 'arial';
     text-align: center;
     font-size: 60px;
+}
 h2 {
-      font-size: 22px;
-    }
+    font-family: 'verdana';
+    text-align: center;
+    font-size: 40px;
+}
 
-
-.btn-danger {
-        color: #fff;
-        background-color:pink;
-        border-color: pink;
+p {
+font-family: 'Verdana';
+}
