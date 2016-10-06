@@ -1,9 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
 body {
   margin-top: 30px;
+  font-family: verdana;
 }
-
 
 
 .navbar-inverse .navbar-brand {
@@ -13,11 +14,8 @@ body {
   padding-top: 15px;
 }
 
-
-
-
 #landing {
-          font-family: 'Pacifico';
+          font-family: 'Tangerine';
           text-align: center;
         }
 
@@ -30,16 +28,16 @@ body {
 
 
 h1 {
-    font-family: 'arial';
+    font-family: 'Lato';
     text-align: center;
     font-size: 60px;
 }
 h2 {
-    font-family: 'verdana';
+    font-family: 'Lato';
     text-align: center;
     font-size: 40px;
 }
 
 p {
-font-family: 'Verdana';
+font-family: 'Lato';
 }
